@@ -1,1 +1,1 @@
-shdykfkssg
+print("hello");
